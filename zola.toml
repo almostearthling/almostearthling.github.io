@@ -28,3 +28,7 @@ theme = "catppuccin-mocha"
 name = "Francesco Garosi"
 avatar_url = "/icons/almostearthling.jpg"
 avatar_alt = "AlmostEarthling"
+social = [
+    { name = "github", url = "https://github.com/almostearthling" },
+    { name = "codeberg", url = "https://codeberg.org/almostearthling" },
+]
