@@ -15,6 +15,13 @@ author = "almostearthling"
 title = "Personal GitHub Site"
 description = "GitHub Pages Site of Francesco Garosi (AlmostEarthling)"
 
+taxonomies = [
+    { name = "code" },
+    { name = "projects" },
+    { name = "llm" },
+    { name = "computing" },
+]
+
 
 [markdown]
 
